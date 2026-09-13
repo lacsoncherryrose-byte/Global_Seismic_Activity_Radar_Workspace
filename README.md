@@ -240,7 +240,7 @@ https://github.com/lacsoncherryrose-byte/Global_Seismic_Activity_Radar_Workspace
 
 **Chery Rose Lacson**
 
-BSIT 2
+BSIT 3
 Palawan State University – Taytay Campus
 
 ## Course
