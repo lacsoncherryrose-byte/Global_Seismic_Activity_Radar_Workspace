@@ -1,0 +1,18 @@
+name: seismic_api
+version: 1.0.0
+description: API client for the Global Seismic Activity Radar.
+publish_to: none
+
+resolution: workspace
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  http: ^1.4.0
+  logging: ^1.2.0
+  terminal_colors:
+    path: ../terminal_colors
+
+dev_dependencies:
+  test: ^1.24.0

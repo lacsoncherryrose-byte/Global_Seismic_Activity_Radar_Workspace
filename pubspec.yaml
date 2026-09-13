@@ -1,0 +1,10 @@
+name: seismic_workspace
+publish_to: none
+
+environment:
+  sdk: ^3.12.2
+
+workspace:
+  - terminal_colors
+  - seismic_api
+  - seismic_cli
