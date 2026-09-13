@@ -218,8 +218,9 @@ Screenshots of the application can be added to this section to demonstrate the a
 
 ### Earthquake Query
 
-Add a screenshot of the earthquake query command here.
+The following screenshot shows the earthquake query command executed through the command-line application.
 
+![Earthquake Query](![Uploading Screenshot 2026-09-13 162510.png…])
 ### Earthquake Results
 
 Add a screenshot showing the earthquake information returned by the application.
@@ -249,4 +250,4 @@ Palawan State University – Taytay Campus
 
 ## Conclusion
 
-The Global Seismic Activity Radar demonstrates how Dart can be used to build a modular command-line application that communicates with an external API. The project applies software development concepts including API integration, data modeling, error handling, logging, terminal styling, testing, and GitHub-based project management.
+The Global Seismic Activity Radar demonstrates how Dart can be used to build a modular command-line application that communicates with an external API. The project applies software development concepts including API integration, data modeling, error handling, logging, terminal syling, testing, and GitHub-based project management.
