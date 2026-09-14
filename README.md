@@ -212,31 +212,6 @@ dart test
 
 The tests verify important functionality of the API and command-line components.
 
-## Screenshots
-
-Screenshots of the application can be added to this section to demonstrate the actual output and functionality.
-
-### Earthquake Query
-
-The following screenshot shows the earthquake query command executed through the command-line application.
-
-![Earthquake Query](![Uploading Screenshot 2026-09-13 162510.png…])
-### Earthquake Results
-
-Add a screenshot showing the earthquake information returned by the application.
-
-### Test Results
-
-Add a screenshot showing the successful test execution.
-
-## GitHub Repository
-
-The source code and project documentation are available in this repository:
-
-**Global Seismic Activity Radar Workspace**
-
-https://github.com/lacsoncherryrose-byte/Global_Seismic_Activity_Radar_Workspace
-
 ## Developer
 
 **Chery Rose Lacson**
